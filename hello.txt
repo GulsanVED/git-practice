@@ -1,1 +1,3 @@
 hello git 
+Learning git is intereseting 
+Learning Git is interesting 
